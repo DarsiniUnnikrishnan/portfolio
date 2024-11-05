@@ -20,6 +20,7 @@ Academic journey in Business Analytics has provided hands-on experience using to
 Skills: Data Analysis · Tableau · Data Cleaning · Data Visualization · Public transportation analytics · Problem Solving · Team Collaboration · Presentations
 
 **Consumer Behaviour Analysis | R, Python**
+
 **Associated with Cape Breton University**
 - Conducted data cleaning and preprocessing in R to ensure data accuracy and completeness, improving data quality by 15%.
 - Implemented the Apriori algorithm in R to identify frequent purchasing patterns, leading to a 10% increase in targeted marketing effectiveness for the e-grocery store.
@@ -29,6 +30,7 @@ Skills: Data Analysis · Tableau · Data Cleaning · Data Visualization · Publi
 Skills: R (Programming Language) · Data Mining · k-means clustering · apriori algorithm · Customer Segmentation Strategy · Market Research · Data Analysis
 
 **Apple Stock Price Prediction | Python**
+
 **Associated with Cape Breton University**
 - Prepared the data for modeling by handling missing values, encoding categorical variables, scaling features, and addressing outliers using the scikit-learn library.
 - Elected an appropriate machine learning model based on the nature of the problem (Regression).
@@ -38,6 +40,7 @@ Skills: R (Programming Language) · Data Mining · k-means clustering · apriori
 Skills: Python (Programming Language) · Machine Learning · Regression Analysis · Data Preparation · Statistical Modeling
 
 **Capstone Project - Sinkumunchis Player Database 2.0 | MySQL, Tableau, Excel VBA**
+
 **Associated with Cape Breton University**
 - Developed a MySQL database to store comprehensive data for the non-profit organization Sinkumunchis.
 - Connected the database to Tableau for real-time visualization of data trends, including the creation of bar charts to showcase attendance patterns across various schools.
@@ -46,6 +49,7 @@ Skills: Python (Programming Language) · Machine Learning · Regression Analysis
 Skills: VBA Excel · MySQL · Tableau · Data Visualization · Data Management · Gantt chart
 
 **US Debt Tracker | Excel**
+
 **Nov 2024 - Present**
 - Analyzed Yearly Debt Percentage Increases, revealing an average growth of around 5% from 2016 to 2019, with a significant spike in 2020 due to pandemic responses.
 - Identified historical trends showing the highest debt increases in January, February, November, and December, while the lowest increases occurred in April, May, June, and July.
@@ -55,6 +59,7 @@ Skills: VBA Excel · MySQL · Tableau · Data Visualization · Data Management �
 Skills: Data Cleaning · Pivot Tables · Data Visualization · Problem Solving · Trend Analysis · analytical thinking
 
 **NYC Transportation | Excel**
+
 **Nov 2024 - Present**
 - Examined NYC transportation data to identify top causes for delays and breakdowns, finding that mechanical issues and heavy traffic were the primary contributors.
 - Analyzed delay times across boroughs and bus companies, uncovering that certain boroughs and specific bus companies experienced notably higher delay times.
