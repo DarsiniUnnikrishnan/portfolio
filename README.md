@@ -58,6 +58,8 @@ Skills: VBA Excel · MySQL · Tableau · Data Visualization · Data Management �
 - Analyzed Yearly Debt Percentage Increases, revealing an average growth of around 5% from 2016 to 2019, with a significant spike in 2020 due to pandemic responses. • Identified historical trends showing the highest debt increases in January, February, November, and December, while the lowest increases occurred in April, May, June, and July. • Projected that publicly held debt will grow from $25 trillion in 2022 to $33 trillion by 2027, indicating a steady upward trend influenced by recent economic challenges. • Hypothesized that holiday-related consumer spending contributes to peak debt levels in the latter part of the year, while lower increases in mid-year months reflect a lack of major spending events.
 Skills: Data Cleaning · Pivot Tables · Data Visualization · Problem Solving · Trend Analysis · analytical thinking
 
+![US Debt Tracker](/assets/img/U S Debt tracker final .png)
+
 **NYC Transportation | Excel**
 
 **Nov 2024 - Present**
