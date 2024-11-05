@@ -10,6 +10,7 @@ Academic journey in Business Analytics has provided hands-on experience using to
 ## Projects
 
 **Bus Delays in Toronto | Tableau**
+
 **Associated with Cape Breton University**
 - Analyzed over 53,000 records of bus delays in Toronto using data from January to December 2022.
 - Cleaned and transformed raw data, removing null values and irrelevant columns to improve dataset quality.
