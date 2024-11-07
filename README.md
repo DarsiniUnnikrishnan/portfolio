@@ -23,6 +23,8 @@ Academic journey in Business Analytics has provided hands-on experience using to
 - Analyzed customer demographics to uncover insights that drove a 20% improvement in product recommendations for the e-grocery store.
 - Conducted data cleaning and preprocessing in R to ensure data accuracy and completeness, improving data quality by 15%. • Implemented the Apriori algorithm in R to identify frequent purchasing patterns, leading to a 10% increase in targeted marketing effectiveness for the e-grocery store. • Developed a K-means clustering model in Python to categorize customers based on purchasing behavior, enhancing customer segmentation strategies. • Analyzed customer demographics to uncover insights that drove a 20% improvement in product recommendations for the e-grocery store.
 
+  [View Project](https://github.com/DarsiniUnnikrishnan/portfolio/tree/main/Projects)
+
 
 ### Apple Stock Price Prediction | Python
 - Prepared the data for modeling by handling missing values, encoding categorical variables, scaling features, and addressing outliers using the scikit-learn library.
