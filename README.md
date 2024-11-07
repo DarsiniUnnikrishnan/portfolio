@@ -38,6 +38,8 @@ Academic journey in Business Analytics has provided hands-on experience using to
 - Implemented an automated attendance tracking system using Excel VBA, improving operational efficiency.
 - Developed a MySQL database to store comprehensive data for the non-profit organization Sinkumunchis. • Connected the database to Tableau for real-time visualization of data trends, including the creation of bar charts to showcase attendance patterns across various schools. • Implemented an automated attendance tracking system using Excel VBA, improving operational efficiency.
 
+  [View Project](Projects/Capstone Project/Capstone Project Proposal.pdf)
+
 ### US Debt Tracker | Excel
 - Analyzed Yearly Debt Percentage Increases, revealing an average growth of around 5% from 2016 to 2019, with a significant spike in 2020 due to pandemic responses.
 - Identified historical trends showing the highest debt increases in January, February, November, and December, while the lowest increases occurred in April, May, June, and July.
